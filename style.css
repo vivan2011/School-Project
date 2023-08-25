@@ -1,0 +1,21 @@
+h4{
+    color:white;
+    font-size: 16px;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    line-height: 3;
+    width:100%;
+    background-color: darkgreen;
+    color: goldenrod;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3{
+    color:white;
+    background-color: orange;
+    font-size: 22px;
+}
